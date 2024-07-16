@@ -6,3 +6,4 @@ async def main():
 
 print('Чиназес11')
 asyncio.run(main())
+
