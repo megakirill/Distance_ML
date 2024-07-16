@@ -4,5 +4,5 @@ import asyncio
 async def main():
     print('hello world')
 
-print('Чиназес')
+print('Чиназес11')
 asyncio.run(main())
